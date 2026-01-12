@@ -1,0 +1,5 @@
+{
+    "MAPS_API_KEY": "TU_WSTAW_SWOJ_KLUCZ",
+    "GOOGLE_SHEETS_NAME": "Kontakty z map",
+    "SERVICE_ACCOUNT_FILE": "credentials.json"
+}
