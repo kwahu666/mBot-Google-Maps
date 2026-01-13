@@ -1,4 +1,5 @@
-﻿config.json
-credentials.json
-usage_stats.json
-*.zip
+.env
+*.json
+!config.example.json
+__pycache__/
+*.pyc
